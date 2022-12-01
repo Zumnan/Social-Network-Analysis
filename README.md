@@ -57,4 +57,4 @@ Model prediction
 
 
 
-NOTE: Look for .csv file named "" this is where our tweet datasets are, without uploading this file on Jupyter Notebook or your code editor you won't be able to visualize
+NOTE: Look for .csv file named "tweet_dat.csv" this is where our tweet datasets are, without uploading this file on Jupyter Notebook or your code editor you won't be able to visualize
