@@ -22,23 +22,39 @@ Where x are explanatory input variables
 
 Applied Text mining Using Python, and NLP Techniques for Sentiment Analysis for Tweeter Datasets
 The Processes involved are listed below and discussed in full in the HTML extracted code from Jupyter Notebook
--	Text Mining
+-	Text Mining 
+
+
 Text mining and NLP
 
+
 -	Text Normalization
+
+
+
 Features cleaning
 Tokenization
 Stemming
 Lemmatization
 
 -	Text Vectorization
+
+
+
 Text Representation
 Positive/negative
 Bag-of-Words
 TF-IDF
 
 -	Sentiment Analysis
+
+
+
 Logistic Regression
 Model Training
 Model Evaluation
 Model prediction
+
+
+
+NOTE: Look for .csv file named "" this is where our tweet datasets are, without uploading this file on Jupyter Notebook or your code editor you won't be able to visualize
