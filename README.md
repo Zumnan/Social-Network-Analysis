@@ -1,7 +1,7 @@
 # Social-Network-Analysis
 Sentiment Analysis for Social media
 
-Opinion mining, also referred to as sentiment analysis, focuses on opinions that separate out good or negative thoughts. Text mining and the NLP model are used in sentiment analysis to extract sentiment (a belief or statement that is held or expressed) from unstructured text data. Sentiment research can be used in industries including social media, customer support, trade, and brand awareness. Sentiment analysis has become the focus of social media research as a result of the development of text mining and natural language processing (NLP) in response to the proliferation of global data throughout time. Sentiment analysis has also experienced a rapid expansion in social media. As social media platforms proliferated, they spawned new features like forum discussions, blogs, reviews, comments, reactions, and postings. These features act as platforms for sentiment analysis and decision-making, and all that is required is the use of the appropriate tools, like the aforementioned NLP, text mining, and machine-learning models like Logistic Regression. In order to extract subjective information from natural languages, sentiment analysis is used. Finally, various techniques will be employed to analyse Twitter data sets. Positive and negative Frequencies (LR Model accuracy 77.92%) and Bag-of-words (LR Model accuracy 88.52%) appear to be less accurate than TF-IDF (LR Model accuracy 88.65%).
+Opinion mining, also referred to as sentiment analysis, focuses on opinions that separate positive or negative thoughts. Text mining and the NLP model are used in sentiment analysis to extract sentiment (a belief or statement that is held or expressed) from unstructured text data. Sentiment research can be used in industries including social media, customer support, trade, and brand awareness. Sentiment analysis has become the focus of social media research as a result of the development of text mining and natural language processing (NLP) in response to the proliferation of global data throughout time. Sentiment analysis has also experienced a rapid expansion in social media. As social media platforms proliferated, they spawned new features like forum discussions, blogs, reviews, comments, reactions, and postings. These features act as platforms for sentiment analysis and decision-making, and all that is required is the use of the appropriate tools, like the aforementioned NLP, text mining, and machine-learning models like Logistic Regression. To extract subjective information from natural languages, sentiment analysis is used. Finally, various techniques will be employed to analyse Twitter data sets. TF-IDF (LR Model accuracy 88.65%)  and Bag-of-words (LR Model accuracy 88.52%) appear to be more accurate than Positive and negative Frequencies (LR Model accuracy 77.92%).
 
 The following steps must be considered in order to process data in a rule-based system;
 Cleaning text
@@ -54,6 +54,7 @@ Logistic Regression
 Model Training
 Model Evaluation
 Model prediction
+
 
 
 
